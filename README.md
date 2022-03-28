@@ -6,3 +6,5 @@ Currently a student interested in:
 - AWS
 
 - Unity Game Development
+
+https://www.linkedin.com/in/kevintarus/
