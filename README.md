@@ -3,7 +3,7 @@ Currently a student interested in:
 
 - Cyber Security
 
-- AWS
+- Cloud
 
 - Unity Game Development
 
