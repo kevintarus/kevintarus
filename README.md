@@ -1,9 +1,9 @@
 ### Hola  :)
-Currently a student interested in:
+Currently interested in:
 
 - Cyber Security
 
-- Networks
+- Unity Game Development
 
 SOCIALS
 - https://www.linkedin.com/in/kevintarus/
