@@ -8,6 +8,8 @@ Currently interested in:
 - Game Development with Unity and Unreal Engine
 
 
+VISIT MY BLOG
+- https://kevintarus.github.io/
 
 
 SOCIALS
