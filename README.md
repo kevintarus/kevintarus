@@ -5,7 +5,7 @@ Currently interested in:
 
 - Cloud Computing
 
-- Game Development with Unity and Unreal Engine
+- Game Development with Unity
 
 
 VISIT MY BLOG
@@ -14,5 +14,4 @@ VISIT MY BLOG
 
 SOCIALS
 - https://twitter.com/iamtarus
-- https://www.instagram.com/iamtarus/
 - https://www.linkedin.com/in/kevintarus/
